@@ -43,3 +43,4 @@ ent)
 
 ### `yarn build` fails to minify
 
+### Thank U
